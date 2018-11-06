@@ -31,6 +31,6 @@ entries:
     digest: 6fd727c801f4ccc7d54e6551ac5570a974b80960ac24f259c7115e3c09adc318
     name: cp-helm-charts
     urls:
-    - https://dmeenhuis.github.io/helm-charts/cp-helm-charts-0.1.0.tgz
+    - https://dmeenhuis.github.io/helm-charts/cp-helm-charts/cp-helm-charts-0.1.0.tgz
     version: 0.1.0
 generated: 2018-11-06T11:05:27.324993765+01:00
