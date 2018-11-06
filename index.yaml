@@ -23,4 +23,14 @@ entries:
     urls:
     - https://dmeenhuis.github.io/helm-charts/fluent-bit/fluent-bit-0.15.2.tgz
     version: 0.15.2
-generated: 2018-11-05T11:15:01.284999887+01:00
+  cp-helm-charts:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-11-06T11:05:27.327460988+01:00
+    description: A Helm chart for Confluent Open Source
+    digest: 6fd727c801f4ccc7d54e6551ac5570a974b80960ac24f259c7115e3c09adc318
+    name: cp-helm-charts
+    urls:
+    - https://dmeenhuis.github.io/helm-charts/cp-helm-charts-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-11-06T11:05:27.324993765+01:00
